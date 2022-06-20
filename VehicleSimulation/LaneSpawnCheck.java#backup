@@ -1,0 +1,16 @@
+import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+
+public class LaneSpawnCheck extends Actor
+{
+    private GreenfootImage blank;
+    
+    public LaneSpawnCheck (){
+        blank = new GreenfootImage (80, 50);
+        setImage(blank);
+    }
+
+    public boolean vehiclePresent () {
+        
+    }
+    
+}

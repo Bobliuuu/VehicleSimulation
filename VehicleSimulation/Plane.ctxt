@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Plane
+comment0.text=\r\n\ Plane\ class\ that\ spawns\ a\ plane\ which\ moves\ from\ bottom\ left\ to\ top\ right\r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Plane\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ airStrike()
+comment2.text=\r\n\ Method\ that\ starts\ the\ air\ strike\r\n\ Three\ random\ bombs\ at\ different\ locations\r\n
+numComments=3

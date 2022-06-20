@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Pedestrian
+comment0.text=\r\n\ Pedestrian\ Abstract\ Class\r\n\ \r\n\ Moves\ mindlessly\ up\ the\ road,\ reacting\ to\ cars\r\n\ that\ hit\ it,\ ambulances\ that\ heal\ it,\ and\ potentially\r\n\ buses\ that\ pick\ it\ up.\r\n\ \r\n\ @author\ Jordan\ Cohen,\ Jerry\ Zhu\r\n\ @version\ 2\r\n\ \r\n
+comment1.params=
+comment1.target=void\ removeSelf()
+comment1.text=\r\n\ Method\ that\ removes\ the\ pedestrian\ from\ the\ World\r\n
+comment2.params=
+comment2.target=void\ knockMeOver()
+comment2.text=\r\n\ Method\ that\ causes\ this\ Pedestrian\ to\ stop\ moving\ and\ appear\ to\ fall\ over\r\n
+comment3.params=
+comment3.target=void\ healMe()
+comment3.text=\r\n\ Method\ that\ causes\ this\ pedestrian\ to\ "heal"\ -\ regain\ upright\ position\ and\ start\ moving\ again\r\n
+comment4.params=
+comment4.target=void\ pickMeUp()
+comment4.text=\r\n\ Method\ that\ causes\ the\ pedestrian\ to\ get\ picked\ up\ by\ the\ bus\ -\ not\ yet\ implemented\r\n
+comment5.params=
+comment5.target=boolean\ atWorldEdge()
+comment5.text=\r\n\ Handy\ method\ that\ checks\ if\ this\ object\ is\ at\ the\ edge\r\n\ of\ the\ World\r\n\ \r\n\ @return\ boolean\ true\ if\ at\ or\ past\ the\ edge\ of\ the\ World,\ otherwise\ false\r\n
+comment6.params=
+comment6.target=boolean\ isHealthy()
+comment6.text=\r\n\ Method\ that\ checks\ if\ the\ pedestrian\ is\ healthy\r\n
+comment7.params=
+comment7.target=void\ explode()
+comment7.text=\r\n\ Replaces\ the\ pedestrian\ with\ an\ explosion\r\n\ Used\ when\ a\ pedestrian\ is\ in\ range\ of\ an\ exploding\ Bomb\r\n
+numComments=8

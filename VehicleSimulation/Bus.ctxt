@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Bus
+comment0.text=\r\n\ Bus\ subclass\ of\ Vehicle\r\n\ Picks\ up\ passengers\r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Bus()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ removeSelf()
+comment3.text=\r\n\ Remove\ this\ bus\ from\ the\ World\r\n
+comment4.params=
+comment4.target=void\ checkHitPedestrian()
+comment4.text=\r\n\ Check\ if\ the\ bus\ has\ hit\ a\ Pedestrian\r\n\ Uses\ an\ array\ of\ offset\ detections\ along\ the\ bottom\ and\ right\ side\ of\ the\ bus\r\n
+numComments=5

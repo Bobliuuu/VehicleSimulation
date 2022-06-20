@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LaneSpawnCheck
+comment0.text=\r\n\ A\ blank\ image\ that\ checks\ if\ a\ Vehicle\ can\ switch\ lanes\r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=LaneSpawnCheck()
+comment2.params=width\ height\ offset
+comment2.target=LaneSpawnCheck(int,\ int,\ int)
+comment3.params=
+comment3.target=boolean\ vehiclePresent()
+comment3.text=\r\n\ Returns\ if\ a\ Vehicle\ is\ touching\ the\ LaneSpawnCheck\r\n
+numComments=4

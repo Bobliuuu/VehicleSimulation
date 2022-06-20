@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SunMoon
+comment0.text=\r\n\ SunMoon\ class\ that\ mimicks\ the\ passing\ of\ days\r\n\ Changes\ the\ background\ based\ on\ the\ time\ of\ day\ (getY())\r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=SunMoon()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ SunMoon\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ moveSunMoon()
+comment4.params=
+comment4.target=void\ checkEdges()
+comment4.text=\r\n\ Method\ to\ check\ if\ the\ sun/moon\ has\ reached\ the\ edge\ of\ the\ World\r\n\ Also\ checks\ for\ switches\ between\ images\ (day\ to\ night\ and\ night\ to\ day)\r\n
+numComments=5

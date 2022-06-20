@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Explosion
+comment0.text=\r\n\ A\ 25-frame\ explosion\ class\ that\ is\ called\ every\ time\ something\ in\ the\ World\ explodes\r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ Credit\ to\ Andrew\ Qiao\ for\ the\ images\ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Explosion()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Explosion\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

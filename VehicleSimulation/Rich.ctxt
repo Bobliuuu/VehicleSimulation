@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Rich
+comment0.text=\r\n\ Rich\ subclass\ of\ Pedestrian\ that\ moves\ faster\ \r\n\ Can\ get\ picked\ up\ by\ Limos\r\n\ \r\n\ @author\ Jordan\ Cohen\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Rich()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

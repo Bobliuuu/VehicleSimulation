@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Soldier
+comment0.text=\r\n\ Soldier\ subclass\ of\ Pedestrian\r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Soldier()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ shootBullet()
+comment3.text=\r\n\ Method\ that\ shoots\ a\ bullet\ from\ the\ soldier\r\n\ Only\ shoots\ if\ bullets\ are\ left\ and\ soldier\ is\ alive\r\n
+numComments=4

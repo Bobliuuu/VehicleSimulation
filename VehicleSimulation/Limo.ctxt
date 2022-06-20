@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Limo
+comment0.text=\r\n\ Limo\ subclass\ of\ Vehicle\r\n\ Bus-like\ vehicle\ that\ picks\ up\ rich\ passengers\r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Limo()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ removeSelf()
+comment3.text=\r\n\ Method\ that\ removes\ this\ Limo\ from\ the\ WOrld\r\n
+comment4.params=
+comment4.target=void\ checkHitPedestrian()
+comment4.text=\r\n\ Method\ that\ checks\ if\ a\ Limo\ should\ pick\ up\ or\ knock\ over\ a\ Pedestrian\r\n\ Limos\ only\ pick\ up\ Rich\ Pedestrians\r\n
+numComments=5

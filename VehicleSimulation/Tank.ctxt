@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Tank
+comment0.text=\r\n\ Tank\ subclass\ of\ Vehicle\r\n\ Slow\ vehicle\ that\ shoots\ bullets\ that\ hit\ Pedestrians\r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Tank()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ removeSelf()
+comment4.params=
+comment4.target=void\ checkHitPedestrian()
+comment4.text=\r\n\ Check\ if\ the\ Tank\ has\ hit\ a\ Pedestrian\r\n
+comment5.params=
+comment5.target=void\ shootBullet()
+comment5.text=\r\n\ Shoot\ a\ bullet\ from\ the\ Tank\ at\ randomized\ intervals\r\n
+numComments=6

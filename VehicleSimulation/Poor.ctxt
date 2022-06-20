@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Poor
+comment0.text=\r\n\ Poor\ class\ that\ is\ a\ subclass\ of\ pedestrian\ that\ moves\ slowly\r\n\ Can\ pick\ up\ Bombs\r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Poor()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkBomb()
+numComments=4

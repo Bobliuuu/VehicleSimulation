@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bomb
+comment0.text=\r\n\ Bomb\ that\ can\ blow\ up\ on\ contact\ with\ a\ Vehicle\r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Bomb\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ checkHitVehicle()
+comment2.text=\r\n\ Method\ that\ checks\ if\ a\ bomb\ has\ hit\ a\ vehicle\ or\ not\r\n\ If\ it\ has,\ remove\ all\ objects\ in\ the\ range\ of\ the\ Bomb\r\n
+numComments=3

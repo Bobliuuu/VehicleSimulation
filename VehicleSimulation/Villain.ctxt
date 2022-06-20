@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Villain
+comment0.text=\r\n\ Villain\ subclass\ of\ \r\n\ Puts\ down\ a\ bomb\ and\ can\ get\ arrested\ by\ police\r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Villain()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ putBomb()
+comment3.text=\r\n\ Method\ that\ puts\ a\ bomb\ when\ the\ Villain\ passes\ a\ certain\ Y\ value\r\n
+comment4.params=
+comment4.target=boolean\ hasBomb()
+numComments=5

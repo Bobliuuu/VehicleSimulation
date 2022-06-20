@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Ambulance
+comment0.text=\r\n\ Ambulance\ subclass\ of\ Vehicle\r\n\ Heals\ passengers\ and\ makes\ a\ siren\ sound\r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Ambulance()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ playSound()
+comment3.text=\r\n\ Play\ the\ ambulance\ sound\r\n
+comment4.params=
+comment4.target=void\ stopSound()
+comment4.text=\r\n\ Stop\ the\ ambulance\ sound\r\n
+comment5.params=
+comment5.target=void\ checkEdges()
+comment5.text=\r\n\ Method\ that\ checks\ if\ the\ Ambulance\ has\ reached\ the\ edge\ of\ the\ World\r\n
+comment6.params=
+comment6.target=void\ removeSelf()
+comment6.text=\r\n\ Remove\ this\ ambulance\ from\ the\ World\r\n
+comment7.params=
+comment7.target=void\ checkHitPedestrian()
+comment7.text=\r\n\ Check\ if\ the\ ambulance\ has\ hit\ a\ Pedestrian\r\n
+numComments=8

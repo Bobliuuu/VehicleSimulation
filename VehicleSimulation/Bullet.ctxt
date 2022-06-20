@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ Bullet\ subclass\ of\ Projectile\r\n\ Travels\ fast\ and\ can\ hit\ Pedestrians\r\n\ \r\n\ @author\ Jerry\ Zhu\r\n\ @version\ 1\r\n
+comment1.params=angle
+comment1.target=Bullet(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Bullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkEdges()
+comment3.text=\r\n\ Check\ if\ the\ bullet\ is\ at\ the\ edges,\ and\ remove\ if\ it\ is.\ \r\n
+comment4.params=
+comment4.target=void\ checkHitPedestrian()
+comment4.text=\r\n\ Check\ if\ the\ bullet\ has\ hit\ a\ pedestrian\r\n
+numComments=5
